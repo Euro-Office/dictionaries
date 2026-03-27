@@ -1,19 +1,12 @@
 ## Dictionaries
-The dictionaries of various languages used for spellchecking and hyphenation in [ONLYOFFICE Document Server][2] and [ONLYOFFICE Desktop Editors][4].
+The dictionaries of various languages used for spellchecking and hyphenation in [Euro-Office Document Server][1] and [Euro-Office Desktop Editors][2].
 
 ## Project Information
 
-Official website: [http://www.onlyoffice.com](http://onlyoffice.com "http://www.onlyoffice.com")
+Official website: [https://github.com/Euro-Office](https://github.com/Euro-Office "https://github.com/Euro-Office")
 
-Code repository: [https://github.com/ONLYOFFICE/dictionaries](https://github.com/ONLYOFFICE/dictionaries "https://github.com/ONLYOFFICE/dictionaries")
+Code repository: [https://github.com/Euro-Office/dictionaries](https://github.com/Euro-Office/dictionaries "https://github.com/Euro-Office/dictionaries")
 
-SaaS version: [https://www.onlyoffice.com/cloud-office.aspx](https://www.onlyoffice.com/cloud-office.aspx "https://www.onlyoffice.com/cloud-office.aspx")
 
-## User Feedback and Support
-
-If you have any problems with or questions about [ONLYOFFICE Document Server][2], please visit our official forum to find answers to your questions: [forum.onlyoffice.com][1] or you can ask and answer ONLYOFFICE development questions on [Stack Overflow][3].
-
-  [1]: https://forum.onlyoffice.com
-  [2]: https://github.com/ONLYOFFICE/DocumentServer
-  [3]: http://stackoverflow.com/questions/tagged/onlyoffice
-  [4]: https://github.com/ONLYOFFICE/DesktopEditors
+  [1]: https://github.com/Euro-Office/DocumentServer
+  [2]: https://github.com/Euro-Office/DesktopEditors
