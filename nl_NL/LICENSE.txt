@@ -3,7 +3,9 @@ Dutch dictionary and hyphenation patterns (nl_NL)
 
 Files covered: nl_NL.aff, nl_NL.dic, hyph_nl_NL.dic
 
-Dutch word list for spell checking — OpenTaal, version 2.00G
+Dutch word list for spell checking — OpenTaal. The affix file identifies
+itself as version 2.00b2 of 17-9-2010, "(c) 2006-2010 OpenTaal", coded by
+R. Baars; license_en_EN.txt describes version 2.00G.
 Copyright (c) 2006-2010 OpenTaal, (c) 2001-2005 Simon Brouwer e.a.,
 (c) 1996 Nederlandstalige TeX Gebruikersgroep
 http://www.opentaal.org

@@ -3,6 +3,8 @@ Uzbek dictionary (uz_Cyrl_UZ)
 
 Files covered: uz_Cyrl_UZ.aff, uz_Cyrl_UZ.dic
 
+Copyright (c) 2019, Alisher 'U2B3K' Jalolov (as stated at line 5 of uz_Cyrl_UZ.aff).
+
 Upstream: https://github.com/u2b3k/uz-hunspell — the project that this
 dictionary was taken from (as recorded in README.md in this directory)
 carries the GNU General Public License version 3 as its LICENSE file. That
