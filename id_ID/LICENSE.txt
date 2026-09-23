@@ -3,18 +3,44 @@ Indonesian dictionary and thesaurus (id_ID)
 
 Files covered: id_ID.aff, id_ID.dic, hyph_id_ID.dic
 
-Copyright (c) 2014 Benitius Brevoort
-<benitius.brevoort@kapusin.org / benitius@tiscali.it>
-Extracted from the LibreOffice Indonesian dictionary extension by
-Arif Budiman <arifpedia@gmail.com>.
+What the files in this directory say
+------------------------------------
 
-README_id_ID.txt licenses the files under either the Mozilla Public License 2.0
-or the GNU Lesser General Public License version 3.0. This directory ships
-LICENSE-dict (LGPL 3.0) and LICENSE-thes, but not the two texts below:
+id_ID/id_ID.aff, lines 1-12, verbatim:
 
-  * The GNU GPL version 3 — the LGPL 3.0 is written as a set of additional
-    permissions on top of the GPL 3.0 and is incomplete without it.
-  * The Mozilla Public License 2.0 — the other option offered by the readme.
+    ## SPDX-FileCopyrightText: 2022 hunspell-id Authors
+    ## SPDX-License-Identifier: LGPL-3.0-only
+
+    # Affix file for Indonesian dictionary version 2
+    # Based on version 1, built from scratch for Myspell.
+    # Released under GPL on 30 January 2004
+    # Version 2 expanded and adapted for hunspell.
+    # Released under GPL on 30 June 2014
+    # See text of license at: http://www.gnu.org/copyleft/gpl.html.
+    #
+    # Benitius Brevoort E-mail: benitius.brevoort@kapusin.org
+    # 30 June 2014
+
+README_id_ID.txt in this directory licenses the files under either the Mozilla
+Public License 2.0 or the GNU LGPL version 3.0.
+
+Conclusion
+----------
+Copyright 2022 hunspell-id Authors; earlier versions by Benitius Brevoort
+(2004, 2014).
+
+The affix file's SPDX header states LGPL-3.0-only, and the readme includes
+LGPL-3.0 among its options, so both agree on LGPL-3.0 and that is what we rely
+on. The historical lines in the same header record that versions 1 and 2 were
+released under the GPL; those describe earlier releases.
+
+The MPL-2.0 option appears only in the readme, not in the dictionary data. Its
+text is included so that the readme's alternative is present, but it is not
+the licence we rely on.
+
+This directory already ships LICENSE-dict (LGPL 3.0) and LICENSE-thes. The GNU
+GPL version 3 is added below because the LGPL 3.0 is written as additional
+permissions on top of it and is incomplete without it.
 
 
 ==============================================================================

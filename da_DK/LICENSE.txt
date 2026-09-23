@@ -1,24 +1,45 @@
 Danish dictionary and hyphenation patterns (da_DK)
 ==================================================
 
-Spelling dictionary (da_DK.aff, da_DK.dic)
-    Stavekontrolden - Danish dictionary files for Hunspell, version 1.6
-    (c) 2010 Foreningen for frit tilgængelige sprogværktøjer
-    http://www.stavekontrolden.dk
-    Based on data from Det Danske Sprog- og Litteraturselskab, http://www.dsl.dk
-    Published under GNU GPL version 2.0, GNU LGPL version 2.1 and
-    Mozilla MPL version 1.1 (see da_DK_Danish.txt in this directory).
+Files covered: da_DK.aff, da_DK.dic, hyph_da_DK.dic
 
-Hyphenation patterns (hyph_da_DK.dic)
-    Based on the TeX hyphenation tables by Frank Jensen (ca. 1988), modified by
-    Preben Randhol (1994); conversion by Marco Huggenberger
-    <marco@by-night.ch>. License: GNU LGPL (see README_hyph_da_DK.txt).
+What the files in this directory say
+------------------------------------
 
-The files in this directory are distributed under a GPL/LGPL/MPL tri-license:
-you may use them under the terms of the GNU General Public License version 2 or
-later, the GNU Lesser General Public License version 2.1 or later, or the
-Mozilla Public License version 1.1 or later, at your option. The full text of
-all three licenses follows.
+da_DK/da_DK.aff, lines 2-16, verbatim:
+
+    #Stavekontrolden version 2.8.001
+    #Denne fil er en del af Stavekontrolden - et softwareprodukt, der gør det muligt at stavekontrollere på dansk.
+
+    #Copyright (C) 2023 Foreningen for frit tilgængelige sprogværktøjer
+    #Website: http://www.stavekontrolden.dk
+    #E-mail: info@stavekontrolden.dk
+
+    #License
+
+    #GPL 2.0/LGPL 2.1/MPL 1.1 tri-license
+
+    #This library is free software; you can redistribute it and/or modify it under the terms of one or more of the following:
+    #   the GNU General Public License as published by the Free Software Foundation, version 2.0, https://www.gnu.org/licenses/gpl-2.0.html
+    #   the GNU Lesser General Public License as published by the Free Software Foundation, version 2.1, https://www.gnu.org/licenses/lgpl-2.1.html
+    #   and the Mozilla Public License as published by the The Mozilla Foundation, version 1.1, https://www.mozilla.org/en-US/MPL/1.1/
+
+da_DK_Danish.txt in this directory describes version 1.6 (2010) and lists the
+same three licences at the same versions ("GNU GPL version 2.0 / GNU LGPL
+version 2.1 / Mozilla MPL version 1.1"). It is older than the affix file, which
+is version 2.8.001 (2023), but the two agree on the licence.
+
+Hyphenation patterns (hyph_da_DK.dic): based on the TeX hyphenation tables by
+Frank Jensen, modified by Preben Randhol, converted by Marco Huggenberger.
+README_hyph_da_DK.txt states the GNU LGPL, without a version.
+
+Conclusion
+----------
+Spelling dictionary: Copyright (C) 2023 Foreningen for frit tilgængelige
+sprogværktøjer. Tri-licensed, at your option, under exactly GPL version 2.0,
+LGPL version 2.1 or MPL version 1.1. Neither the affix file nor the readme
+grants "or later" for any of the three, so none is asserted here.
+Hyphenation: LGPL, version unstated; the LGPL-2.1 text below also serves it.
 
 
 ==============================================================================

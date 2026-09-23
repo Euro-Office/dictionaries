@@ -10,16 +10,27 @@ Volodymyr M. Lisivka; (C) 2005 Andriy Rysin, Eugeniy Meshcheryakov, Dmytro
 Kovalyov; (C) 2006-2013 Andriy Rysin. Thesaurus (C) 2009 Andriy Rysin.
 Based on the spell-uk project, http://ispell-uk.sourceforge.net/
 
-README_uk_UA.txt and README_th_uk_UA.txt in this directory license the
-dictionary and the thesaurus under GPL 2.0 or above, LGPL 2.1 or above and the
-Mozilla Public License 1.1. README_hyph_uk_UA.txt carries a GPL version 2 or
-later notice for the hyphenation patterns.
+What the files in this directory say
+------------------------------------
 
-The files in this directory are distributed under a GPL/LGPL/MPL tri-license:
-you may use them under the terms of the GNU General Public License version 2 or
-later, the GNU Lesser General Public License version 2.1 or later, or the
-Mozilla Public License version 1.1 or later, at your option. The full text of
-all three licenses follows.
+uk_UA/README_uk_UA.txt, line 27, verbatim:
+
+    This dictionary is licensed under GPL 2.0 or above, LGPL 2.1 or above and MPL (Mozilla Public License) 1.1 licenses.
+
+uk_UA/README_th_uk_UA.txt, line 10, verbatim:
+
+    This thesaurus is licensed under GPL, LGPL and MPL (Mozilla Public License) licenses.
+
+README_hyph_uk_UA.txt carries a GPL version 2 or later notice for the
+hyphenation patterns.
+
+Conclusion
+----------
+Spelling dictionary: GPL version 2 or later, LGPL version 2.1 or later, or MPL
+version 1.1 (no "or later" is granted for the MPL).
+Thesaurus: GPL, LGPL or MPL, no versions stated.
+Hyphenation: GPL version 2 or later.
+All three texts follow.
 
 
 ==============================================================================

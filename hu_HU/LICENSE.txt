@@ -1,31 +1,64 @@
 Hungarian dictionary and hyphenation patterns (hu_HU)
 =====================================================
 
-Spelling dictionary (hu_HU.aff, hu_HU.dic), Magyar Ispell 1.6.1
-    (c) 2010 László Németh & Ferenc Godó, http://magyarispell.sf.net
+Files covered: hu_HU.aff, hu_HU.dic, hyph_hu_HU.dic
 
-Hyphenation patterns (hyph_hu_HU.dic)
-    Nagy Bence <nagybence (at) tipogral (dot) hu>, patched by László Németh.
-    License: MPL/GPL/LGPL (see README_hyph_hu_HU.txt in this directory).
+What the files in this directory say
+------------------------------------
 
-The files in this directory are distributed under a GPL/LGPL/MPL tri-license:
-you may use them under the terms of the GNU General Public License version 2 or
-later, the GNU Lesser General Public License version 2.1 or later, or the
-Mozilla Public License version 1.1 or later, at your option. The full text of
-all three licenses follows.
+Spelling dictionary
 
-(README_hu_HU.txt refers to files named COPYING.LGPL and COPYING.MPL, which
-were never shipped in this directory. This file supplies the missing texts.)
+hu_HU/hu_HU.aff, lines 4-13, verbatim:
 
+    # This dictionary is based on the Hungarian wordlist and affixes created
+    # by László Németh and Ferenc Godó, and it is covered by their original
+    # GPL/LGPL/MPL license as published by the FSF and Mozilla Foundation.
+    #
+    #
+    # Version: March 2024, 1.8.1
+    #
+    # Home page: http://magyarispell.sourceforge.net
+    #
+    # 2002-2024 (c) László Németh <nemeth@numbertext.org> and Ferenc Godó
 
-Cross-check note
-----------------
+README_hu_HU.txt in this directory describes version 1.6.1 — older than the
+affix file, which is 1.8.1 (March 2024).
+
+hu_HU/README_hu_HU.txt, lines 7-14, verbatim:
+
+    GPL 2.0/LGPL 2.1/MPL 1.1 tri-license
+
+    The contents of this software may be used under the terms of
+    the GNU General Public License Version 2 or later (the "GPL"), or
+    the GNU Lesser General Public License Version 2.1 or later (the "LGPL",
+    see COPYING.LGPL) or (excepting the LGPLed GNU gettext library in the
+    intl/ directory) the Mozilla Public License Version 1.1 or later
+    (the "MPL", see COPYING.MPL).
+
+Hyphenation patterns
+
+hu_HU/hyph_hu_HU.dic, lines 16-17, verbatim:
+
+    % ***** BEGIN LICENSE BLOCK *****
+    % Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
 Debian's libreoffice-dictionaries copyright file records the current upstream
-Hungarian dictionary as "GPL-3+ or LGPL-3+ or MPL-2.0+". That applies to a
-newer release than the one in this directory, which is Magyar Ispell 1.6.1
-(2010) and carries the older GPL-2 / LGPL-2.1 / MPL-1.1 tri-license quoted
-above. The texts included here are the ones matching the files you ship. If you
-update the dictionary from upstream, update this file too.
+Hungarian dictionary as "GPL-3+ or LGPL-3+ or MPL-2.0+".
+
+Conclusion
+----------
+The affix file says the dictionary is covered by the authors' "original
+GPL/LGPL/MPL license" without versions. The readme's tri-license is that
+original licence, and it grants "or later" for all three: GPL 2 or later,
+LGPL 2.1 or later, MPL 1.1 or later. We rely on that grant. It includes the
+GPL-3 / LGPL-3 / MPL-2.0 versions Debian records, so the two statements are
+consistent rather than conflicting.
+
+The readme refers to COPYING.LGPL and COPYING.MPL, which were never shipped
+here; the GPL-2.0, LGPL-2.1 and MPL-1.1 texts follow. The hyphenation patterns
+carry their own MPL 1.1 / GPL 2.0 / LGPL 2.1 licence block and are covered by
+the same three texts.
+
 
 ==============================================================================
 GPL-2.0 — full text

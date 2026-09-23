@@ -3,16 +3,32 @@ Catalan (Valencian) dictionary (ca_ES_valencia)
 
 Files covered: ca_ES_valencia.aff, ca_ES_valencia.dic
 
-Copyright (C) Jaume Ortolà / Softcatalà and contributors.
-Readme_ca_ES_valencia.txt in this directory states that the spelling
-dictionary, thesaurus and hyphenation are licensed under "LGPL, GPL" without
-naming versions. The upstream Softcatalà Catalan packages are released under
-the GNU Lesser General Public License version 2.1 or later, or the GNU General
-Public License version 2 or later, at the user's option; both texts follow.
+What the files in this directory say
+------------------------------------
 
-If you need certainty about the version, ask Softcatalà to confirm, or take the
-dictionary straight from the LibreOffice dictionaries repository, which ships
-the upstream readme with the version numbers.
+ca_ES_valencia/ca_ES_valencia.aff, lines 5-16, verbatim:
+
+    #                                Versió 3.0.8 (06-08-2023)
+    # =======================================================================================
+    # Copyright (C) 2013-2023 Jaume Ortolà <jaumeortola@gmail.com>
+    # Copyright (C) 2002-2008 Joan Moratinos <jmo@softcatala.org>
+    #
+    # Dual license:
+    #
+    #   * GNU General Public License, version 2 or later
+    #     https://www.gnu.org/licenses/gpl-2.0.txt
+    #
+    #   * GNU Lesser General Public License, version 2.1 or later
+    #     https://www.gnu.org/licenses/lgpl-2.1.txt
+
+Readme_ca_ES_valencia.txt in this directory adds only "LGPL, GPL" without
+versions; the affix file above is the authoritative statement.
+
+Conclusion
+----------
+Version 3.0.8 (6 August 2023). Copyright (C) 2013-2023 Jaume Ortolà and
+(C) 2002-2008 Joan Moratinos. Dual licence, at your option: GNU GPL version 2
+or later, or GNU LGPL version 2.1 or later. Both texts follow.
 
 
 ==============================================================================
